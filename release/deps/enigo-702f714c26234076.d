@@ -1,0 +1,11 @@
+C:\Users\xahit\Desktop\depo\Code\rust-autoclicker\auto-clicker\target\release\deps\libenigo-702f714c26234076.rmeta: C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\lib.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\dsl.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\win\mod.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\win\win_impl.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\keycodes.rs
+
+C:\Users\xahit\Desktop\depo\Code\rust-autoclicker\auto-clicker\target\release\deps\libenigo-702f714c26234076.rlib: C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\lib.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\dsl.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\win\mod.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\win\win_impl.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\keycodes.rs
+
+C:\Users\xahit\Desktop\depo\Code\rust-autoclicker\auto-clicker\target\release\deps\enigo-702f714c26234076.d: C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\lib.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\dsl.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\win\mod.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\win\win_impl.rs C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\keycodes.rs
+
+C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\lib.rs:
+C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\dsl.rs:
+C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\win\mod.rs:
+C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\win\win_impl.rs:
+C:\Users\xahit\.cargo\registry\src\index.crates.io-6f17d22bba15001f\enigo-0.1.3\src\keycodes.rs:
