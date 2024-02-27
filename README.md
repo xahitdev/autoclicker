@@ -1,2 +1,2 @@
 # autoclicker
- an autoclicker for various use cases
+ an autoclicker written in Rust for various use cases
